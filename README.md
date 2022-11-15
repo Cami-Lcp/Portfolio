@@ -10,6 +10,11 @@
 ➡️ For the <b>Gif</b> i used: https://giphy.com/<br>
 ➡️ <b>My logo</b> i created in the website: https://www.canva.com/<br>
 <br>
+🟢 My Tools:<br>
+  <div style="display: inline_block">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></div>
+  <br>
 ### <b>Home:</b><br>
 It consists of: <br>
 🔹 A logo; <br>
